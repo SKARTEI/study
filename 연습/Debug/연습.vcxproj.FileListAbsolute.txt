@@ -1,0 +1,2 @@
+D:\c++연습\연습\Debug\연습.exe
+D:\c++연습\연습\Debug\연습.pdb
